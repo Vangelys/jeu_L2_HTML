@@ -1,0 +1,22 @@
+.tile
+{
+	float:left;
+	background-image: url(../img/sol.jpg);
+	width: 64px;
+	height:64px;
+}
+
+.princesse
+{
+	background-image: url(../img/princess.png);
+	width: 64px;
+	height:64px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#jeu
+{
+	width:512px;
+	height:512px;
+}
